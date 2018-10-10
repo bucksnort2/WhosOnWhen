@@ -5,6 +5,6 @@ author: bucksnort2
 commands:
   whoson:
     description: Prints out a list of who was on when, how long they were on, and what commands they ran.
-    usage: /whoson <T/F length> <T/F commands ran>
+    usage: /whoson [Player] <T/F Time On> <T/F commands ran>
     permission: WhosOnWhen.basic
     permission-message: You don't have <permission>
